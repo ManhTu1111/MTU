@@ -1,1 +1,1 @@
-# MTU
+Hello, my name is Tu (full name: Đoàn Mạnh Tú). I’m a student at Ho Chi Minh City University of Industry. My major is Internet of Things (IoT) and Applied Artificial Intelligence. This GitHub contains all of my projects from my time at university.
